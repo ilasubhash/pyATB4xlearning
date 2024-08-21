@@ -11,6 +11,6 @@ print("Hi Subhash")
 
 # *args - unlimited no of arguments *- string , int, float, boolean..
 # sep - how you want to separate the arguments
-print("subhash","Ila",123,2.34,True, sep="-")
+print("subhash","Ila",123,2.34,True, sep="|")
 
 
